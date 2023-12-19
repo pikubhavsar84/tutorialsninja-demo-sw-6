@@ -1,0 +1,174 @@
+2023-12-18 12:12:776 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 12:12:39 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 12:12:754 INFO  HomePage :66 - Getting text from: [[ChromeDriver: chrome on windows (88da3693e795585c6037785cb7bcb19e)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-18 12:12:968 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 12:12:135 INFO  HomePage :46 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-12-18 12:12:896 INFO  HomePage :76 - Getting text from: [[ChromeDriver: chrome on windows (9c181065123a77c7717455ed10d37364)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-18 12:12:965 INFO  HomePage :81 - mouse hover on componentsLink and click.
+2023-12-18 12:12:126 INFO  HomePage :46 - Selecting a topMenu: Show AllComponents
+2023-12-18 12:12:797 INFO  HomePage :86 - Getting text from: [[ChromeDriver: chrome on windows (3e32d6ef5f18507effbd817742442c6f)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-18 12:12:16 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 12:12:267 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 12:12:86 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 12:12:270 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:536 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:748 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:07 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:227 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:33 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:225 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:451 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:609 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:800 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:983 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:718 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:922 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 13:12:936 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 13:12:144 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:383 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:631 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:79 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (f8f78634179856424667705f9221b4bc)] -> id: input-sort]
+2023-12-18 14:12:715 INFO  DesktopsPage :236 - Displaying products in descending order
+2023-12-18 14:12:460 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:629 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:826 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (44e0f6f5fb4d3c366b3be8b593df1b6d)] -> id: input-sort]
+2023-12-18 14:12:437 INFO  DesktopsPage :179 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 14:12:165 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:359 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:686 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (6bd000b0cd7c36066d8b946a7fba5019)] -> id: input-sort]
+2023-12-18 14:12:615 INFO  DesktopsPage :179 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 14:12:546 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:725 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:924 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (db2481447ae7bfc4e068d051024e48a4)] -> id: input-sort]
+2023-12-18 14:12:515 INFO  DesktopsPage :179 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 14:12:805 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:997 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:343 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (974a413d439d04c981ec5df50e937e68)] -> id: input-sort]
+2023-12-18 14:12:980 INFO  DesktopsPage :179 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 14:12:601 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:784 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:02 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (783d1434ff9c1148aa072e2317c387fd)] -> id: input-sort]
+2023-12-18 14:12:501 INFO  DesktopsPage :179 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 14:12:38 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:214 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:537 INFO  DesktopsPage :226 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (9f88933f7d3d0bc6bafe54d0cd13ca62)] -> id: input-sort]
+2023-12-18 14:12:448 INFO  DesktopsPage :179 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 14:12:221 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 14:12:400 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 14:12:396 INFO  HomePage :66 - Getting text from: [[ChromeDriver: chrome on windows (9ed0a7938970b9aa44c260d947310961)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-18 14:12:865 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 14:12:61 INFO  HomePage :46 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-12-18 14:12:785 INFO  HomePage :76 - Getting text from: [[ChromeDriver: chrome on windows (05288ca6cb454e6a12fd65f29d55e3d8)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-18 14:12:408 INFO  HomePage :81 - mouse hover on componentsLink and click.
+2023-12-18 14:12:594 INFO  HomePage :46 - Selecting a topMenu: Show AllComponents
+2023-12-18 14:12:372 INFO  HomePage :86 - Getting text from: [[ChromeDriver: chrome on windows (adea7f5fa824ef687f93af3751eb9756)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-18 15:12:166 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:371 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:173 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (c5f1f440650bb3464a5d92b8d78d62ca)] -> id: input-sort]
+2023-12-18 15:12:943 INFO  DesktopsPage :235 - Displaying products in descending order
+2023-12-18 15:12:516 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (0cc043f4f6a52860d01e71a917868b85)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 15:12:317 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:527 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:634 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (0cc043f4f6a52860d01e71a917868b85)] -> id: input-sort]
+2023-12-18 15:12:475 INFO  DesktopsPage :178 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 15:12:712 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (cdcdca07632201928c5a18b816a97089)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 15:12:585 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:786 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:980 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (cdcdca07632201928c5a18b816a97089)] -> id: input-sort]
+2023-12-18 15:12:802 INFO  DesktopsPage :178 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 15:12:493 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (df98fda102971c3336bb189061c8444e)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 15:12:577 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:848 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:590 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (df98fda102971c3336bb189061c8444e)] -> id: input-sort]
+2023-12-18 15:12:07 INFO  DesktopsPage :178 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 15:12:581 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (4e3f4a0502524a4f053957874ff934b1)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 15:12:384 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:668 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:558 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (4e3f4a0502524a4f053957874ff934b1)] -> id: input-sort]
+2023-12-18 15:12:334 INFO  DesktopsPage :178 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 15:12:742 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (a21228dc40d3ff434043a47fa0fc4702)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 15:12:306 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:503 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:47 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (a21228dc40d3ff434043a47fa0fc4702)] -> id: input-sort]
+2023-12-18 15:12:33 INFO  DesktopsPage :178 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 15:12:674 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (12087a31af855a4bc70f87d47a6ba7bc)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 15:12:489 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:687 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:25 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (12087a31af855a4bc70f87d47a6ba7bc)] -> id: input-sort]
+2023-12-18 15:12:652 INFO  DesktopsPage :178 -  enter QuantityProxy element for: DefaultElementLocator 'By.xpath: //input[@id='input-quantity']'
+2023-12-18 15:12:68 INFO  HomePage :61 - mouse hover on desktoplink and click.
+2023-12-18 15:12:343 INFO  HomePage :46 - Selecting a topMenu: Show AllDesktops
+2023-12-18 15:12:886 INFO  HomePage :66 - Getting text from: [[ChromeDriver: chrome on windows (759ad30235e3ee41c5fbe0156552ed79)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-18 15:12:81 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 15:12:354 INFO  HomePage :46 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-12-18 15:12:346 INFO  HomePage :76 - Getting text from: [[ChromeDriver: chrome on windows (aab0a4a6be864038bdc07db9b91e7d40)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-18 15:12:453 INFO  HomePage :81 - mouse hover on componentsLink and click.
+2023-12-18 15:12:806 INFO  HomePage :46 - Selecting a topMenu: Show AllComponents
+2023-12-18 15:12:675 INFO  HomePage :86 - Getting text from: [[ChromeDriver: chrome on windows (d9a10f4e73a91ac6edd0677789f35164)] -> xpath: //h2[contains(text(),'Components')]]
+2023-12-18 15:12:620 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 15:12:815 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 15:12:444 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 15:12:990 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 16:12:174 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 16:12:789 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 16:12:983 INFO  HomePage :71 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 17:12:342 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 17:12:332 INFO  LoginPage :53 - Selecting my account optionsLogin
+2023-12-18 17:12:187 INFO  LoginPage :65 - Getting text Returning Customer” 
+2023-12-18 17:12:834 INFO  LoginPage :53 - Selecting my account optionsLogin
+2023-12-18 17:12:668 INFO  LoginPage :95 - Enter emailIdmagnussmith123@gmail.comto email[[ChromeDriver: chrome on windows (6bb88000fb8bf9dcafb9a4fe2a3b412f)] -> id: input-email]
+2023-12-18 17:12:920 INFO  LoginPage :100 - Enter  passwordFieldsmith123456to password[[ChromeDriver: chrome on windows (6bb88000fb8bf9dcafb9a4fe2a3b412f)] -> id: input-password]
+2023-12-18 17:12:44 INFO  LoginPage :70 - Clicking on login button.
+2023-12-18 17:12:152 INFO  LoginPage :75 - Getting text My account
+2023-12-18 17:12:280 INFO  LoginPage :53 - Selecting my account optionsLogout
+2023-12-18 17:12:230 INFO  LoginPage :85 - Getting the text account logout
+2023-12-18 17:12:306 INFO  LoginPage :90 - Clicking on continue link.
+2023-12-18 17:12:481 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:695 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:57 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (f8f42c0567e8903f96c98fe69cea63f9)] -> id: input-sort]
+2023-12-18 17:12:693 INFO  DesktopsPage :235 - Displaying products in descending order
+2023-12-18 17:12:419 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (bf2c89afe2d78eeef24601e00619e019)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 17:12:310 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:584 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:317 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (bf2c89afe2d78eeef24601e00619e019)] -> id: input-sort]
+2023-12-18 17:12:792 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (13316a0dbd25939ad836ae5e10abd03a)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 17:12:687 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:924 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:641 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (13316a0dbd25939ad836ae5e10abd03a)] -> id: input-sort]
+2023-12-18 17:12:969 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (e528b12a663d7763697486e2cd13d456)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 17:12:962 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:294 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:118 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (e528b12a663d7763697486e2cd13d456)] -> id: input-sort]
+2023-12-18 17:12:364 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (c155383b2cfa1669c0930451a04cd81e)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 17:12:255 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:492 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:248 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (c155383b2cfa1669c0930451a04cd81e)] -> id: input-sort]
+2023-12-18 17:12:174 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (80844d6df11053d506a9a8b1bd7b25c8)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 17:12:70 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:302 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:879 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (80844d6df11053d506a9a8b1bd7b25c8)] -> id: input-sort]
+2023-12-18 17:12:848 INFO  DesktopsPage :112 - Click On poundSterling[[ChromeDriver: chrome on windows (59a04c6dea261483dc34f6594fa87726)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-18 17:12:840 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:101 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:653 INFO  DesktopsPage :225 - Selection of sort by position Name: A to A[[ChromeDriver: chrome on windows (59a04c6dea261483dc34f6594fa87726)] -> id: input-sort]
+2023-12-18 17:12:635 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 17:12:888 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 17:12:877 INFO  LoginPage :53 - Selecting my account optionsLogin
+2023-12-18 17:12:820 INFO  LoginPage :65 - Getting text Returning Customer” 
+2023-12-18 17:12:841 INFO  LoginPage :53 - Selecting my account optionsLogin
+2023-12-18 17:12:772 INFO  LoginPage :95 - Enter emailIdmagnussmith123@gmail.comto email[[ChromeDriver: chrome on windows (3602327dc6717023f4717ba663d57ef1)] -> id: input-email]
+2023-12-18 17:12:04 INFO  LoginPage :100 - Enter  passwordFieldsmith123456to password[[ChromeDriver: chrome on windows (3602327dc6717023f4717ba663d57ef1)] -> id: input-password]
+2023-12-18 17:12:127 INFO  LoginPage :70 - Clicking on login button.
+2023-12-18 17:12:221 INFO  LoginPage :75 - Getting text My account
+2023-12-18 17:12:301 INFO  LoginPage :53 - Selecting my account optionsLogout
+2023-12-18 17:12:195 INFO  LoginPage :85 - Getting the text account logout
+2023-12-18 17:12:278 INFO  LoginPage :90 - Clicking on continue link.
+2023-12-18 17:12:532 INFO  HomePage :87 - mouse hover on desktoplink and click.
+2023-12-18 17:12:750 INFO  HomePage :72 - Selecting a topMenu: Show AllDesktops
+2023-12-18 17:12:310 INFO  HomePage :92 - Getting text from: [[ChromeDriver: chrome on windows (df7e055da8d007b9fd7047b6695ecfbe)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-12-18 17:12:705 INFO  HomePage :97 - mouse hover on laptopsAndNotebooksLink and click.
+2023-12-18 17:12:934 INFO  HomePage :72 - Selecting a topMenu: Show AllLaptops & Notebooks
+2023-12-18 17:12:866 INFO  HomePage :102 - Getting text from: [[ChromeDriver: chrome on windows (cd58a0f38eaee42932df4045295b1b70)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-18 17:12:890 INFO  HomePage :107 - mouse hover on componentsLink and click.
+2023-12-18 17:12:107 INFO  HomePage :72 - Selecting a topMenu: Show AllComponents
+2023-12-18 17:12:927 INFO  HomePage :112 - Getting text from: [[ChromeDriver: chrome on windows (69e1d15600bb28bb00fac8ac3066f422)] -> xpath: //h2[contains(text(),'Components')]]
